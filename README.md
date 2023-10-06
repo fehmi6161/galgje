@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|.|.|.|.|.| 
+|.|O|.|.|.| 
 
 |-|-|-|-|-|
 
@@ -14,4 +14,4 @@
 ## Beurten
 * ik raad een E
 HElaas het is fout
-Ik raad een O
+*Ik raad een O het is goed
