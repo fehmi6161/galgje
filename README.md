@@ -16,3 +16,4 @@
 * Ik raad een O het is goed 
 * Ik raad een I het is fout
 * IK raad een N het is fout 
+* Ik raad een A 
