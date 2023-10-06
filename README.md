@@ -14,3 +14,4 @@
 ## Beurten
 * ik raad een E
 HElaas het is fout
+Ik raad een O
